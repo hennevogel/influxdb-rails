@@ -2,6 +2,9 @@
 
 For the full commit log, [see here](https://github.com/influxdata/influxdb-rails/commits/master).
 
+## v1.0.1, released 2020-10-09
+- No code changes 🪨 
+
 ## v1.0.1.beta2, released 2020-09-14
 - Implement [`deliver.action_mailer`](https://guides.rubyonrails.org/active_support_instrumentation.html#deliver-action-mailer) subscriber
 - Add missing Active Job documentation
